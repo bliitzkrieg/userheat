@@ -1,0 +1,21 @@
+{
+  "name": "userheat",
+  "version": "1.0.0",
+  "homepage": "https://github.com/bliitzkrieg/userheat",
+  "authors": [
+    "Luca D <lucamatthewdecaprio@gmail.com>"
+  ],
+  "description": "User behavior analysis tool",
+  "main": "main.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies" : {
+    "heatmap" : "https://github.com/pa7/heatmap.js.git"
+  }
+}
